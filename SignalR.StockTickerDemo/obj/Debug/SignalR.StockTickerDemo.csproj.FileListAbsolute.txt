@@ -1,0 +1,14 @@
+C:\Temp\StockTickerDemo\SignalR.StockTickerDemo\bin\SignalR.StockTickerDemo.dll
+C:\Temp\StockTickerDemo\SignalR.StockTickerDemo\bin\SignalR.StockTickerDemo.pdb
+C:\Temp\StockTickerDemo\SignalR.StockTickerDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Temp\StockTickerDemo\SignalR.StockTickerDemo\bin\Newtonsoft.Json.dll
+C:\Temp\StockTickerDemo\SignalR.StockTickerDemo\bin\SignalR.dll
+C:\Temp\StockTickerDemo\SignalR.StockTickerDemo\bin\SignalR.Hosting.AspNet.dll
+C:\Temp\StockTickerDemo\SignalR.StockTickerDemo\bin\SignalR.Hosting.Common.dll
+C:\Temp\StockTickerDemo\SignalR.StockTickerDemo\bin\Newtonsoft.Json.xml
+C:\Temp\StockTickerDemo\SignalR.StockTickerDemo\bin\SignalR.xml
+C:\Temp\StockTickerDemo\SignalR.StockTickerDemo\bin\SignalR.Hosting.AspNet.xml
+C:\Temp\StockTickerDemo\SignalR.StockTickerDemo\bin\SignalR.Hosting.Common.xml
+C:\Temp\StockTickerDemo\SignalR.StockTickerDemo\obj\Debug\SignalR.StockTickerDemo.csprojResolveAssemblyReference.cache
+C:\Temp\StockTickerDemo\SignalR.StockTickerDemo\obj\Debug\SignalR.StockTickerDemo.dll
+C:\Temp\StockTickerDemo\SignalR.StockTickerDemo\obj\Debug\SignalR.StockTickerDemo.pdb
